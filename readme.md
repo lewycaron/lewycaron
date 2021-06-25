@@ -1,1 +1,1 @@
-![Snake animation](https://github.com/lewycaron/lewycaron/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lewycaron/github-contribution-grid-snake.svg)
