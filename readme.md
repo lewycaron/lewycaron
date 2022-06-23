@@ -1,6 +1,6 @@
 <div> 
   <h2>Olá, Bem vindo!</h2>
-  <h2>Eu sou Lewy Caron,<br> <strong>Designer Gráfico</strong> e futuro <strong>Desenvolvedor Web</strong> </h2>
+  <h2>Eu sou Lewy Caron,<br> <strong>Designer Gráfico</strong> e <strong>Desenvolvedor Web</strong> </h2>
   
 
   </div>
