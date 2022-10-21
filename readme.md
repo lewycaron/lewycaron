@@ -1,10 +1,9 @@
 <div> 
   <h2>Olá, Bem vindo!</h2>
-  <h2>Eu sou Lewy Caron,<br> <strong>Sap Developer</strong></h2>
+  <h2>Eu sou Lewy Caron | <strong>Sap Developer</strong></h2>
+</div>
   
 
-  </div>
-  
 
 <div align="center">
   <a href="https://github.com/lewycaron">
@@ -20,7 +19,7 @@
   <img align="center" alt="Lewy-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
 </div>
   
- <p>
+<p>
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/LewyCaron?logo=seguidores&style=for-the-badge" alt="imagem quantidade de seguidores"> 
